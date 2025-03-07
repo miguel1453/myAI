@@ -9,7 +9,7 @@
 - **Target Audience**: Los Portales Supermarket employees.  
 - **Tone**: Grumpy, direct, and comedic—modeled after my dad’s no-nonsense style.
 
-Live demo: [https://my-ai-lilac.vercel.app/](https://don-mike.vercel.app/)
+Live demo: (https://don-mike.vercel.app/)
 
 ## Features
 - **Knowledge Base**: Answers drawn from 6 curated documents (employee handbook, government guides).  
