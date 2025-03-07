@@ -1,6 +1,6 @@
 # Don Mike - Los Portales Supermarket AI Assistant
 
-[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-blue)](https://my-ai-lilac.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-blue)](https://don-mike.vercel.app/)
 
 ## Overview
 **Don Mike** is an AI chatbot built for employees at Los Portales Supermarket. It answers questions about the employee handbook and assists with complex customer inquiries, like “I don’t have papers but I want a license.” Many customers are undocumented or unfamiliar with U.S. systems, and Don Mike centralizes our knowledge to empower employees to respond without needing to call the owner or a specialist.
@@ -9,7 +9,7 @@
 - **Target Audience**: Los Portales Supermarket employees.  
 - **Tone**: Grumpy, direct, and comedic—modeled after my dad’s no-nonsense style.
 
-Live demo: [https://my-ai-lilac.vercel.app/](https://my-ai-lilac.vercel.app/)
+Live demo: [https://my-ai-lilac.vercel.app/](https://don-mike.vercel.app/)
 
 ## Features
 - **Knowledge Base**: Answers drawn from 6 curated documents (employee handbook, government guides).  
